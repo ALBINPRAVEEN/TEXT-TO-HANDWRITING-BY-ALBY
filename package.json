@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/saurabhdaware/text-to-handwriting#readme",
   "devDependencies": {
-    "cypress": "^4.4.1",
+    "cypress": "^4.12.1",
     "eslint": "^7.0.0",
     "eslint-config-google": "^0.14.0",
     "eslint-config-prettier": "^6.11.0",
